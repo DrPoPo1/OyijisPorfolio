@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+body{
+    background-image: url("../white.jpg");
+    padding-top: 0%;
+}
+.main{
+    border: 2px solid rgb(239, 228, 215);
+    background-color: white;
+    margin-top: 10px;
+    padding: 10px;   
+    cursor: pointer; 
+    box-shadow: 2px 2px 2px;
+
+}
+span{
+    color: rgb(12, 104, 104);
+    border:  1px solid gray ;
+    border: none;
+    margin-left: 50px;
+    text-align: center;
+    font-family: fantasy;
+
+}
+span:hover{
+    text-decoration: underline;
+    color: rgb(240, 178, 6);
+}
+
+
+span.text{
+    color: black;
+    margin-right: 650px;
+}
+span.text:hover{
+    text-decoration: none;
+}
+span.text{
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 70%;
+    margin-left: 250px;
+
+}
+.middle{
+    display: flex;
+    margin-right: 20%;
+    margin-top: 10%;
+    justify-content: space-between;
+    justify-content: center;
+}
+.right{
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.left{
+    margin-left: 10%;
+    color: white;
+}
+.besidepic{
+    margin-left: 200px;
+    color: white;
+}
+h1{
+    color: rgba(196, 106, 17, 0.899);
+    font-family: 'Vina Sans';
+    font-size: 40px;
+}
+p{
+    color: rgb(229, 185, 91);
+    font-family: 'Secular One';
+    font-size: 25px;
+}
+
+button{
+    background-color: bisque;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: chartreuse;
+}
+.icons{
+   cursor: pointer;
+}
