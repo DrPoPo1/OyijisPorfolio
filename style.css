@@ -86,4 +86,17 @@ button:hover{
 }
 .icons{
    cursor: pointer;
+   text-align: center;
+}
+H1{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+li:hover{
+    color: cadetblue;
+}
+li{
+    cursor: pointer;
 }
